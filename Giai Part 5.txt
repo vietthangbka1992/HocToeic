@@ -1142,13 +1142,135 @@ University student (n): Sinh viên đại học
 
 For the past + khoảng thời gian: Trong suốt ... qua (dấu hiệu nhận biết thì hiện tại hoàn thành / hiện tại hoàn thành tiếp diễn)
 //=============================================================================================================
+meat substitutes, which are plant-based foods with meat-like tastes and textures. are currently enjoying a boom nationwide. the market for such products grew nearly 50% in the past year, and they can now be found in a .... range of settings, from supermarket shelves to fast-food restaurants
 
+A total
+
+B broad
+
+C constant
+
+D numerous   
+
+Đáp án đúng: B broad
+
+Giải thích từ vựng:
+
+broad (adj): Rộng, rộng lớn. Cụm từ "a broad range of" nghĩa là "một dải rộng / rất nhiều chủng loại".
+
+total (adj): Tổng cộng, toàn bộ (thường đi với tổng số tiền, số lượng cụ thể).
+
+constant (adj): Không đổi, liên tục, kiên định.
+
+numerous (adj): Nhiều (sau "numerous" là danh từ số nhiều trực tiếp, không dùng cấu trúc "a numerous range of").
+
+Giải thích cấu trúc ngữ pháp:
+
+Cụm từ cố định: "a broad range of + N (số nhiều)" nghĩa là "nhiều loại / phạm vi rộng các...".
+
+Xét trong ngữ cảnh câu: Các sản phẩm thay thế thịt hiện có thể được tìm thấy trong "một phạm vi rộng các địa điểm" (a broad range of settings), từ kệ siêu thị đến các nhà hàng thức ăn nhanh.
+
+Dịch nghĩa toàn bộ câu:
+Các sản phẩm thay thế thịt, vốn là thực phẩm gốc thực vật có hương vị và kết cấu giống thịt, hiện đang rất phát triển trên toàn quốc. Thị trường cho các sản phẩm này đã tăng trưởng gần 50% trong năm qua, và hiện chúng có thể được tìm thấy ở rất nhiều địa điểm khác nhau, từ kệ siêu thị đến các nhà hàng thức ăn nhanh.
 //=============================================================================================================
+a major reason for this trend is changing consumer ... afected by concern about the enviromental impact ò live stock farming.
 
+A to prefer
+
+B preferably
+
+C preferring
+
+D preferences 
+
+Đáp án đúng: D preferences
+
+Giải thích từ vựng:
+
+preference (n): Sự ưa thích, sở thích. Cụm từ "consumer preferences" nghĩa là "sở thích / thị hiếu của người tiêu dùng".
+
+prefer (v): Thích hơn.
+
+preferably (adv): Tốt nhất là, ưu tiên là.
+
+preferring (v-ing / participle): Dạng V-ing của động từ prefer.
+
+Giải thích cấu trúc ngữ pháp:
+
+Vị trí cần điền đứng sau danh từ "consumer" để tạo thành một danh từ ghép (compound noun): "consumer preferences" (thị hiếu người tiêu dùng). Danh từ này làm chủ ngữ chính cho mệnh đề phụ sau động từ "is".
+
+Mệnh đề "affected by..." phía sau là mệnh đề quan hệ rút gọn ở dạng bị động (bị ảnh hưởng bởi...), bổ nghĩa cho danh từ "consumer preferences".
+
+Dịch nghĩa toàn bộ câu:
+Một nguyên nhân chính cho xu hướng này là sự thay đổi thị hiếu của người tiêu dùng, vốn bị ảnh hưởng bởi lo ngại về tác động môi trường của việc chăn nuôi gia súc.
 //=============================================================================================================
+according to ivan ortega, spokesperson for the plant based food asociation, the lower prices and better taste or newer meat substitutes have contributed ...
 
+A as well
+
+B already
+
+C so far
+
+D mainly 
+
+Đáp án đúng: A as well
+
+Giải thích từ vựng:
+
+as well (adv): Cũng, cũng góp phần (thường đứng ở cuối câu để bổ sung thêm yếu tố).
+
+already (adv): Đã, rồi.
+
+so far (adv): Cho đến nay.
+
+mainly (adv): Chủ yếu (thường đứng trước động từ chính, ví dụ: "have mainly contributed").
+
+Giải thích cấu trúc ngữ pháp:
+
+Trạng từ "as well" đứng ở cuối câu mang nghĩa bổ sung ý ("cũng đóng góp vào...").
+
+Ngữ cảnh đoạn văn: Câu trước đã nêu một nguyên nhân (lo ngại về môi trường). Câu này đưa thêm nguyên nhân thứ hai (giá rẻ hơn, vị ngon hơn) nên dùng "as well" ở cuối để nối tiếp ý.
+
+Dịch nghĩa toàn bộ câu:
+Theo Ivan Ortega, người phát ngôn của Hiệp hội Thực phẩm Gốc Thực vật, giá thành rẻ hơn và hương vị ngon hơn của các sản phẩm thay thế thịt thế hệ mới cũng đã đóng góp vào xu hướng này.
 //=============================================================================================================
+Mr ortega believes that thí sector of the industry will only continue to grow in the future. ....
 
+A furthermore, his health has improved since the removal of meat from his diet
+
+B his association also includes markers of dairy alternatives such á soy milk
+
+C therefore, he feels the process for making meat substitutes is too complex
+
+D in fact, he predicts that substitutes will equal meat in popularity within 15 years 
+
+Đáp án đúng: D in fact, he predicts that substitutes will equal meat in popularity within 15 years
+
+Giải thích từ vựng:
+
+in fact (phrase): Trên thực tế, thực ra (dùng để nhấn mạnh hoặc bổ sung thông tin chi tiết hơn cho ý trước).
+
+predict (v): Dự đoán.
+
+equal (v): Bằng, ngang bằng với.
+
+popularity (n): Sự phổ biến, mức độ ưa chuộng.
+
+Giải thích cấu trúc ngữ pháp và logic:
+
+Cụm "In fact" mở đầu mệnh đề dùng để phát triển sâu hơn dự đoán tích cực đã đề cập ở câu trước ("will only continue to grow" -> "will equal meat in popularity within 15 years").
+
+Loại trừ phương án sai:
+
+A: Nói về sức khỏe cá nhân của ông Ortega (lệch chủ đề ngành công nghiệp).
+
+B: Nói về sản phẩm thay thế sữa (lệch trọng tâm đang nói về thịt).
+
+C: Mang ý nghĩa tiêu cực ("too complex"), mâu thuẫn với thái độ lạc quan về sự phát triển ở câu trước.
+
+Dịch nghĩa toàn bộ câu:
+Trên thực tế, ông dự đoán rằng các sản phẩm thay thế sẽ đạt mức độ phổ biến ngang bằng với thịt trong vòng 15 năm tới.
 //=============================================================================================================
 
 //=============================================================================================================
